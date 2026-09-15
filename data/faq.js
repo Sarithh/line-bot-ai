@@ -36,4 +36,4 @@ const FAQ = `
 - เว็บไซต์สั่งล่วงหน้า: https://www.sunrootcoffee.co.th
 `;
 
-module.exports = { FAQ };cp .env.example .env.local
+module.exports = { FAQ };
